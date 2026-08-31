@@ -118,6 +118,7 @@ window.noname_character_rank = {
 		"eu_yujin",
 		"eu_zhangliao",
 		"eu_yuejin",
+		"sunhe",
 	],
 	a: [
 		"sxrm_chen_caocao",
@@ -349,6 +350,8 @@ window.noname_character_rank = {
 		"bigsb_dengai",
 	],
 	am: [
+		"ol_zhonghui",
+		"ol_shen_huangzhong",
 		"mb_shen_lvbu",
 		"dc_shen_guanyu",
 		"dc_shen_zhangliao",
@@ -1210,6 +1213,7 @@ window.noname_character_rank = {
 		"pot_zanghong",
 	],
 	b: [
+		"wangai",
 		"re_zhoufei",
 		"re_yanyan",
 		"mb_gaoxiang",
@@ -2796,6 +2800,8 @@ window.noname_character_rank = {
 			"natu_zhugeliang",
 		],
 		epic: [
+			"ol_zhonghui",
+			"ol_shen_huangzhong",
 			"mb_shen_lvbu",
 			"sxrm_zhugeliang",
 			"sxrm_chen_caocao",
@@ -3372,8 +3378,10 @@ window.noname_character_rank = {
 			"guotiying",
 			"dc_sb_jianggan",
 			"dc_sb_chunyuqiong",
+			"sunhe",
 		],
 		rare: [
+			"wangai",
 			"ol_quancong",
 			"re_zhoufei",
 			"re_yanyan",
